@@ -5,5 +5,5 @@ d3.s and node.js.
 
 ## Packages
 * Request-Promise
+* Cheerio
 * d3
-* To select html DOM elements from webpage
