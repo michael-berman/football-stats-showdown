@@ -1,0 +1,19 @@
+{
+  "name": "football_stats_showdown",
+  "version": "1.0.0",
+  "description": "An interactive tool to visualize team and player statistics created with d3.s and node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-berman/football-stats-showdown.git"
+  },
+  "author": "Michael Berman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-berman/football-stats-showdown/issues"
+  },
+  "homepage": "https://github.com/michael-berman/football-stats-showdown#readme"
+}
