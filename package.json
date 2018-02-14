@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/michael-berman/football-stats-showdown/issues"
   },
-  "homepage": "https://github.com/michael-berman/football-stats-showdown#readme"
+  "homepage": "https://github.com/michael-berman/football-stats-showdown#readme",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
 }
