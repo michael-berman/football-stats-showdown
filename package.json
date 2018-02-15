@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/michael-berman/football-stats-showdown#readme",
   "dependencies": {
+    "axios": "^0.17.1",
     "cheerio": "^1.0.0-rc.2",
     "d3": "^4.13.0",
     "request": "^2.83.0",
